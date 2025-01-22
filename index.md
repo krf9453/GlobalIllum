@@ -14,4 +14,4 @@ Camera: eye: [0,0,0], lookat: [0,0,-20], up: [0,1,0]
 
 We used frustrum perspective for projection: [-6,6,-6,6,8,15]
 
-![Setting the Scene](Setting_the_Scene.png)
+![Setting the Scene](image1.png)
