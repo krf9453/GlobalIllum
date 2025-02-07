@@ -1,6 +1,8 @@
-# Assignment 1: Setting the Scene
+## Global Illumination
 
-Authors: Abby Starkweather, Kelly Feke
+Authors: Abigail Starkweather, Kelly Feke
+
+# Assignment 1: Setting the Scene
 
 Sphere 1: translation: [0,-.5,-5], scale: [2,2,2]
 
@@ -15,3 +17,7 @@ Camera: eye: [0,0,0], lookat: [0,0,-20], up: [0,1,0]
 We used frustrum perspective for projection: [-6,6,-6,6,8,15]
 
 ![Setting the Scene](/GlobalIllum/image1.png)
+
+# Assignment 2: Basic Ray Tracing
+
+![Basic Ray Tracing 1](/GlobalIllum/assn1-2.png)
