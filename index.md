@@ -27,3 +27,7 @@ Basic Implementation:
 Change Camera Location:
 
 ![Basic Ray Tracing 2](/GlobalIllum/assn1-2_1.png)
+
+Add Cone and Cylinder Objects:
+
+![Basic Ray Tracing 3](/GlobalIllum/assn1-2_2.png)
