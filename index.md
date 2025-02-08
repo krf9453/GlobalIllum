@@ -20,4 +20,10 @@ We used frustrum perspective for projection: [-6,6,-6,6,8,15]
 
 # Assignment 2: Basic Ray Tracing
 
+Basic Implementation:
+
 ![Basic Ray Tracing 1](/GlobalIllum/assn1-2.png)
+
+Change Camera Location:
+
+![Basic Ray Tracing 2](/GlobalIllum/assn1-2_1.png)
