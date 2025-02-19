@@ -31,3 +31,13 @@ Change Camera Location:
 Add Cone and Cylinder Objects:
 
 ![Basic Ray Tracing 3](/GlobalIllum/assn1-2_2.png)
+
+# Assignment 3: Illumination
+
+Basic Implementation:
+
+![Illumination 1](/GlobalIllum/assn3-1.png)
+
+Multiple Light Sources:
+
+![Illumination 2](/GlobalIllum/assn3-2.png)
