@@ -43,4 +43,5 @@ Multiple Light Sources:
 ![Illumination 2](/GlobalIllum/assn3-2.png)
 
 Change Color of Spehere to Chow Diffuse:
+
 ![Illumination 3](/GlobalIllum/assn3-1_color.png)
