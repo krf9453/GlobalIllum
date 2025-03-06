@@ -42,6 +42,10 @@ Multiple Light Sources:
 
 ![Illumination 2](/GlobalIllum/assn3-2.png)
 
-Change Color of Spehere to Show Diffuse:
+Change Color of Sphere to Show Diffuse:
 
 ![Illumination 3](/GlobalIllum/assn3-1_color.png)
+
+# Assignment 4: Procedural Shading
+
+![Illumination 4](/GlobalIllum/assn4-1.png)
