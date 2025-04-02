@@ -49,3 +49,7 @@ Change Color of Sphere to Show Diffuse:
 # Assignment 4: Procedural Shading
 
 ![Illumination 4](/GlobalIllum/assn4-1.png)
+
+# Assignment 4: Reflection
+
+![Illumination 5](/GlobalIllum/assn5-1.png)
