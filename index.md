@@ -53,3 +53,7 @@ Change Color of Sphere to Show Diffuse:
 # Assignment 4: Reflection
 
 ![Illumination 5](/GlobalIllum/assn5-1.png)
+
+800 Resolution:
+
+![Illumination 6](/GlobalIllum/assn5_800.png)
