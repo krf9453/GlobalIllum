@@ -1,6 +1,8 @@
-## Global Illumination
+### Global Illumination
 
 Authors: Abigail Starkweather, Kelly Feke
+
+## Regular Assignments
 
 # Assignment 1: Setting the Scene
 
@@ -57,3 +59,11 @@ Change Color of Sphere to Show Diffuse:
 800 Resolution:
 
 ![Illumination 6](/GlobalIllum/assn5_800.png)
+
+## Extra Assignments
+
+# Kd-Trees
+
+![Illumination 7](/GlobalIllum/assn-kd.png)
+time to construct kd-tree:  2.860426902770996  seconds
+time to render with tree:  28.610138416290283  seconds
