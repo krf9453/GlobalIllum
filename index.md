@@ -67,5 +67,7 @@ Change Color of Sphere to Show Diffuse:
 ![Illumination 7](/GlobalIllum/assn-kd.png)
 
 time to construct kd-tree:  2.860426902770996  seconds
+
 time to render with tree:  28.610138416290283  seconds
+
 time without tree: TOO LONG
