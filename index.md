@@ -60,6 +60,10 @@ Change Color of Sphere to Show Diffuse:
 
 ![Illumination 6](/GlobalIllum/assn5_800.png)
 
+# Assignment 5: Transmission
+
+![Illumination 7](/GlobalIllum/assn6-1.png)
+
 ## Extra Assignments
 
 # Kd-Trees
