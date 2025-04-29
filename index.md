@@ -64,11 +64,21 @@ Change Color of Sphere to Show Diffuse:
 
 ![Illumination 7](/GlobalIllum/assn6-1.png)
 
+# Assignment 6: Tone Reproduction
+
+Ward:
+
+![Illumination 9](/GlobalIllum/assn6_ward.png)
+
+Reinhard:
+
+![Illumination 10](/GlobalIllum/assn6_rein.png)
+
 ## Extra Assignments
 
 # Kd-Trees
 
-![Illumination 7](/GlobalIllum/assn-bun.png)
+![Illumination 8](/GlobalIllum/assn-bun.png)
 
 time to construct kd-tree:  2.860426902770996  seconds
 
