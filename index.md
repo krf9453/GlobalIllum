@@ -90,7 +90,7 @@ time without tree: TOO LONG
 
 Adaptive Logarithmic Mapping VS Ward using Kt = 1 (which is why ALM's sphere is so transparent)
 
-| ![Ward Tone Mapping](/GlobalIllum/assn_ward_t.png) | ![Adaptive Logarithmic Mapping](/GlobalIllum/assn_adaptlog.png) |
+| ![Ward Tone Mapping](/GlobalIllum/assn6_ward_t.png) | ![Adaptive Logarithmic Mapping](/GlobalIllum/assn_adaptlog.png) |
 |:--------------------------------------------------:|:-------------------------------------------------------------:|
 | Ward Tone Mapping                                  | Adaptive Logarithmic Mapping                                  |
 
