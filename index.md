@@ -1,10 +1,10 @@
-### Global Illumination
+# Global Illumination
 
 Authors: Abigail Starkweather, Kelly Feke
 
 ## Regular Assignments
 
-# Assignment 1: Setting the Scene
+### Assignment 1: Setting the Scene
 
 Sphere 1: translation: [0,-.5,-5], scale: [2,2,2]
 
@@ -20,7 +20,7 @@ We used frustrum perspective for projection: [-6,6,-6,6,8,15]
 
 ![Setting the Scene](/GlobalIllum/image1.png)
 
-# Assignment 2: Basic Ray Tracing
+### Assignment 2: Basic Ray Tracing
 
 Basic Implementation:
 
@@ -34,7 +34,7 @@ Add Cone and Cylinder Objects:
 
 ![Basic Ray Tracing 3](/GlobalIllum/assn1-2_2.png)
 
-# Assignment 3: Illumination
+### Assignment 3: Illumination
 
 Basic Implementation:
 
@@ -48,11 +48,11 @@ Change Color of Sphere to Show Diffuse:
 
 ![Illumination 3](/GlobalIllum/assn3-1_color.png)
 
-# Assignment 4: Procedural Shading
+### Assignment 4: Procedural Shading
 
 ![Illumination 4](/GlobalIllum/assn4-1.png)
 
-# Assignment 4: Reflection
+### Assignment 4: Reflection
 
 ![Illumination 5](/GlobalIllum/assn5-1.png)
 
@@ -60,15 +60,15 @@ Change Color of Sphere to Show Diffuse:
 
 ![Illumination 6](/GlobalIllum/assn5_800.png)
 
-# Assignment 5: Transmission
+### Assignment 5: Transmission
 
 ![Illumination 7](/GlobalIllum/assn6-1.png)
 
-# Assignment 6: Tone Reproduction
+### Assignment 6: Tone Reproduction
 
 Ward:
 
-![Illumination 9](/GlobalIllum/assn6_ward.png)
+![Illumination 9](/GlobalIllum/assn6_ward_t.png)
 
 Reinhard:
 
@@ -76,7 +76,7 @@ Reinhard:
 
 ## Extra Assignments
 
-# Kd-Trees
+### Kd-Trees
 
 ![Illumination 8](/GlobalIllum/assn-bun.png)
 
@@ -85,3 +85,12 @@ time to construct kd-tree:  2.860426902770996  seconds
 time to render with tree:  28.610138416290283  seconds
 
 time without tree: TOO LONG
+
+### Advanced Tone Reproduction
+
+Adaptive Logarithmic Mapping VS Ward using Kt = 1 (which is why ALM's sphere is so transparent)
+
+| ![Ward Tone Mapping](/GlobalIllum/assn_ward_t.png) | ![Adaptive Logarithmic Mapping](/GlobalIllum/assn_adaptlog.png) |
+|:--------------------------------------------------:|:-------------------------------------------------------------:|
+| Ward Tone Mapping                                  | Adaptive Logarithmic Mapping                                  |
+
