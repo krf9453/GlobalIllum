@@ -76,7 +76,6 @@ Ward:
 
 Reinhard:
 
-![Illumination 10](/GlobalIllum/assn6_rein.png)
 | ![rein low](/GlobalIllum/assn6_rein_t.png) | ![rein med](/GlobalIllum/assn6_rein_t_med.png) | ![rein high](/GlobalIllum/assn6_rein_t_high.png) |
 |:------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|
 | Reinhard Low                                   | Reinhard Medium                                  | Reinhard High                                      |
