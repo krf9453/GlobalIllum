@@ -70,9 +70,16 @@ Ward:
 
 ![Illumination 9](/GlobalIllum/assn6_ward_t.png)
 
+| ![Ward low](/GlobalIllum/assn6_ward_t.png) | ![Ward med](/GlobalIllum/assn6_ward_t_med.png) | ![Ward high](/GlobalIllum/assn6_ward_t_high.png) |
+|:------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|
+| Ward Low                                   | Ward Medium                                  | Ward High                                      |
+
 Reinhard:
 
 ![Illumination 10](/GlobalIllum/assn6_rein.png)
+| ![rein low](/GlobalIllum/assn6_rein_t.png) | ![rein med](/GlobalIllum/assn6_rein_t_med.png) | ![rein high](/GlobalIllum/assn6_rein_t_high.png) |
+|:------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|
+| Reinhard Low                                   | Reinhard Medium                                  | Reinhard High                                      |
 
 ## Extra Assignments
 
@@ -90,7 +97,6 @@ time without tree: TOO LONG
 
 Adaptive Logarithmic Mapping VS Ward using Kt = 1 (which is why ALM's sphere is so transparent)
 
-| ![Ward Tone Mapping](/GlobalIllum/assn6_ward_t.png) | ![Adaptive Logarithmic Mapping](/GlobalIllum/assn_adaptlog.png) |
-|:--------------------------------------------------:|:-------------------------------------------------------------:|
-| Ward Tone Mapping                                  | Adaptive Logarithmic Mapping                                  |
-
+| ![Adaptive Logarithmic Mapping Low](/GlobalIllum/assn_adaptlog.png) | ![Adaptive Logarithmic Mapping Medium](/GlobalIllum/assn_adaptlog_med.png) | ![Adaptive Logarithmic Mapping High](/GlobalIllum/assn_adaptlog_high.png) |
+|:-------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| Adaptive Logarithmic Mapping Low                                   | Adaptive Logarithmic Mapping Medium                                        | Adaptive Logarithmic Mapping High                                        |
