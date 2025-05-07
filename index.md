@@ -70,13 +70,13 @@ Ward:
 
 ![Illumination 9](/GlobalIllum/assn6_ward_t.png)
 
-| ![Ward low](/GlobalIllum/assn6_ward_t.png) | ![Ward med](/GlobalIllum/assn6_ward_t_med.png) | ![Ward high](/GlobalIllum/assn6_ward_t_high.png) |
+| ![Ward low](/GlobalIllum/assn6_ward_t_low.png) | ![Ward med](/GlobalIllum/assn6_ward_t_med.png) | ![Ward high](/GlobalIllum/assn6_ward_t_high.png) |
 |:------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|
 | Ward Low                                   | Ward Medium                                  | Ward High                                      |
 
 Reinhard:
 
-| ![rein low](/GlobalIllum/assn6_rein_t.png) | ![rein med](/GlobalIllum/assn6_rein_t_med.png) | ![rein high](/GlobalIllum/assn6_rein_t_high.png) |
+| ![rein low](/GlobalIllum/assn6_reinhard_t_low.png) | ![rein med](/GlobalIllum/assn6_reinhard_t_med.png) | ![rein high](/GlobalIllum/assn6_reinhard_t_high.png) |
 |:------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|
 | Reinhard Low                                   | Reinhard Medium                                  | Reinhard High                                      |
 
